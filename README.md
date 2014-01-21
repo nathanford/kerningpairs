@@ -10,6 +10,8 @@ If you have any suggestions of how to improve the syntax, or how it might fall o
 Add kerningpairs.js at the end of your HTML page, just before the closing `body` tag.
 
 ```HTML
+	…
+	
 	<script src="./path-to-js/kerningpairs.js" type="text/javascript"></script>
 		
 </body>
