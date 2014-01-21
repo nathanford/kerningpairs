@@ -33,13 +33,13 @@ An example implementation:
 ```CSS
 h1 {
 	kerning-pairs: az 0.02em,
-	zy 0.01em,
-	th 0.01em,
-	ov -0.02em,
-	ox -0.04em,
-	og 0.005em,
-	x  -0.04em,
-	y  -0.04em;
+				zy 0.01em,
+				th 0.01em,
+				ov -0.02em,
+				ox -0.04em,
+				og 0.005em,
+				x  -0.04em,
+				y  -0.04em;
 }
 ```
 
